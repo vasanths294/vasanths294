@@ -38,14 +38,6 @@
 
 ---
 
-### 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasanths294&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
