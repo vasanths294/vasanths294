@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square"/>
   &nbsp;
-  <a href="https://linkedin.com/in/vasanths294">
+  <a href="https://www.linkedin.com/in/csbyvas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -99,10 +99,12 @@ $ cat about.md
 
 ### 🐍 Contribution Snake
 
+> ⚙️ **One-time setup:** Go to your repo → **Actions** tab → **Generate Snake** → click **Run workflow**. It auto-updates every day after that.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake.svg"/>
-  <img alt="github snake" src="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake.svg"/>
 </picture>
 
 ### 📈 Activity Graph
@@ -120,11 +122,9 @@ $ cat about.md
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/vasanths294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/csbyvas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!-- FOOTER -->
