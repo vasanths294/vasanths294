@@ -99,8 +99,6 @@ $ cat about.md
 
 ### 🐍 Contribution Snake
 
-> ⚙️ **One-time setup:** Go to your repo → **Actions** tab → **Generate Snake** → click **Run workflow**. It auto-updates every day after that.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasanths294/vasanths294/output/github-snake.svg"/>
